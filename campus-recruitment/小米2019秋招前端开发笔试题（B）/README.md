@@ -5,7 +5,7 @@
 （Least Recently Used，LRU）
 如果操作系统内存中没有空闲页面，则操作系统必须在内存选择一个页面将其移出内存
 LRU： 把过去最长一段时间里不曾被使用的页面置换掉
-[https://baike.baidu.com/item/%E9%A1%B5%E9%9D%A2%E7%BD%AE%E6%8D%A2%E7%AE%97%E6%B3%95/7626091](页面置换算法)
+[页面置换算法](https://baike.baidu.com/item/%E9%A1%B5%E9%9D%A2%E7%BD%AE%E6%8D%A2%E7%AE%97%E6%B3%95/7626091)
 
 C
 
